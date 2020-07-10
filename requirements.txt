@@ -1,0 +1,10 @@
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.10
+maxminddb==1.5.4
+maxminddb-geolite2==2018.703
+pygeoip==0.3.2
+python-geoip==1.2
+python-geoip-geolite2==2015.303
+requests==2.24.0
+urllib3==1.25.9
