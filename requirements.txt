@@ -7,4 +7,4 @@ pygeoip==0.3.2
 python-geoip==1.2
 python-geoip-geolite2==2015.303
 requests==2.24.0
-urllib3==1.25.9
+urllib3==1.26.5
